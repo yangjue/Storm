@@ -1,3 +1,3 @@
-void gobranch(){
- return ;  // new fun
+int gobranch{
+	return;
 }
